@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CF78CE6&width=435&lines=Welcome+to+my+profie+!!!)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CF78CE6&width=435&lines=Welcome+to+my+profile+!!!)](https://git.io/typing-svg)
 ### I'm Sadia Afrin Hema
 <!--
 **sadiaafrinsadia99/sadiaafrinsadia99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
