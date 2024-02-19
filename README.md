@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
  ...
-- 🔭 I’m currently working
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Applied Data Science Projects 
-<br> 📫 Reach me via 👉 <a href="mailto:sadiaafrinsadia99@gmail.com"> Email </a>
-<br> 💥 connect me 👉 <a href="https://www.linkedin.com/in/sadiaafrinsadia99/">LinkedIn</a>
-<br> 💬 Follow me at 👉 <a href="https://github.com/sadiaafrinsadia99">GitHub</a> 
+🌱 I’m currently learning Applied Data Science Projects at <a href="https://www.wqu.edu/">Wordquant University</a>
+<br> 🔭 I’m currently working in real-time data wrangling and ML model building
+<br> 📫 Reach me via <a href="mailto:sadiaafrinsadia99@gmail.com"> Email </a>
+<br> 💥 connect me <a href="https://www.linkedin.com/in/sadiaafrinsadia99/">LinkedIn</a>
+<br> 💬 Follow me at <a href="https://github.com/sadiaafrinsadia99">GitHub</a> 
